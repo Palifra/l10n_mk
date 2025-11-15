@@ -206,9 +206,9 @@ For support, please contact:
 
 За поддршка, контактирајте:
 
-- **Email**: info@eskon.mk
+- **Email**: info@eskon.com.mk
 - **GitHub**: https://github.com/eskon/odoo/issues
-- **Website**: https://eskon.mk
+- **Website**: https://www.eskon.com.mk
 
 ## Disclaimer / Напомена
 
