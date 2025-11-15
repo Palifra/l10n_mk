@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Configure default accounts for Macedonian companies -->
+    <!-- In Odoo 18, default accounts are configured through account.account records with special flags -->
+
+    <!-- This configuration is handled automatically by the chart template system in Odoo 18 -->
+</odoo>

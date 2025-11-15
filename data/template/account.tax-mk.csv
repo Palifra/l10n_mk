@@ -1,0 +1,25 @@
+id,name,sequence,amount,type_tax_use,repartition_line_ids/id,repartition_line_ids/repartition_type,repartition_line_ids/document_type,repartition_line_ids/account_id,repartition_line_ids/factor_percent,tax_group_id
+att_vat_sale_18,ДДВ 18%,10,18.0,sale,att_vat_sale_18_rep_base_inv,base,invoice,,,atg_vat_18
+,,,,,att_vat_sale_18_rep_tax_inv,tax,invoice,a230,100,
+,,,,,att_vat_sale_18_rep_base_ref,base,refund,,,
+,,,,,att_vat_sale_18_rep_tax_ref,tax,refund,a230,100,
+att_vat_purchase_18,ДДВ 18%,10,18.0,purchase,att_vat_purchase_18_rep_base_inv,base,invoice,,,atg_vat_18
+,,,,,att_vat_purchase_18_rep_tax_inv,tax,invoice,a130,100,
+,,,,,att_vat_purchase_18_rep_base_ref,base,refund,,,
+,,,,,att_vat_purchase_18_rep_tax_ref,tax,refund,a130,100,
+att_vat_sale_5,ДДВ 5%,20,5.0,sale,att_vat_sale_5_rep_base_inv,base,invoice,,,atg_vat_5
+,,,,,att_vat_sale_5_rep_tax_inv,tax,invoice,a230,100,
+,,,,,att_vat_sale_5_rep_base_ref,base,refund,,,
+,,,,,att_vat_sale_5_rep_tax_ref,tax,refund,a230,100,
+att_vat_purchase_5,ДДВ 5%,20,5.0,purchase,att_vat_purchase_5_rep_base_inv,base,invoice,,,atg_vat_5
+,,,,,att_vat_purchase_5_rep_tax_inv,tax,invoice,a130,100,
+,,,,,att_vat_purchase_5_rep_base_ref,base,refund,,,
+,,,,,att_vat_purchase_5_rep_tax_ref,tax,refund,a130,100,
+att_vat_sale_0,Извоз 0%,30,0.0,sale,att_vat_sale_0_rep_base_inv,base,invoice,,,atg_vat_exempt
+,,,,,att_vat_sale_0_rep_tax_inv,tax,invoice,a230,100,
+,,,,,att_vat_sale_0_rep_base_ref,base,refund,,,
+,,,,,att_vat_sale_0_rep_tax_ref,tax,refund,a230,100,
+att_vat_purchase_0,Увоз 0%,30,0.0,purchase,att_vat_purchase_0_rep_base_inv,base,invoice,,,atg_vat_exempt
+,,,,,att_vat_purchase_0_rep_tax_inv,tax,invoice,a130,100,
+,,,,,att_vat_purchase_0_rep_base_ref,base,refund,,,
+,,,,,att_vat_purchase_0_rep_tax_ref,tax,refund,a130,100,

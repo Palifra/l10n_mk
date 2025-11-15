@@ -1,0 +1,4 @@
+id,name,sequence
+atg_vat_18,"ДДВ 18% / VAT 18%",1
+atg_vat_5,"ДДВ 5% / VAT 5%",2
+atg_vat_exempt,"ДДВ 0% / VAT 0%",3

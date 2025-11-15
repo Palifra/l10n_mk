@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Macedonian Chart of Accounts Configuration -->
+    <!-- In Odoo 18, the chart template is auto-created based on the 'countries' field in __manifest__.py -->
+
+    <!-- Set Macedonian Denar as currency symbol -->
+    <record id="base.MKD" model="res.currency">
+        <field name="symbol">ден.</field>
+    </record>
+</odoo>
