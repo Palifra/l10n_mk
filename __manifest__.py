@@ -2,16 +2,16 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'North Macedonia - Accounting',
+    'name': 'Macedonia - Accounting',
     'version': '18.0.1.0.0',
     'icon': '/account/static/description/l10n.png',
     'countries': ['mk'],
     'category': 'Accounting/Localizations/Account Charts',
     'description': """
-North Macedonia - Accounting Localization
+Macedonia - Accounting Localization
 ==========================================
 
-This module provides the Odoo Accounting localization for North Macedonia:
+This module provides the Odoo Accounting localization for Macedonia:
 
     * Chart of Accounts (1,677 accounts) based on official Macedonian accounting standards (МСС/МСФИ - IAS/IFRS)
     * VAT configuration (ДДВ 18%, 5%, 0% for export/import)

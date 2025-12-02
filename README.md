@@ -1,4 +1,4 @@
-# North Macedonia - Accounting Localization (l10n_mk)
+# Macedonia - Accounting Localization (l10n_mk)
 
 **Macedonian Accounting Localization for Odoo 18.0**
 
@@ -10,7 +10,7 @@
 
 ### English
 
-This module provides comprehensive accounting localization for North Macedonia:
+This module provides comprehensive accounting localization for Macedonia:
 
 - **Complete Chart of Accounts** - **428 accounts** based on official Macedonian accounting standards (МСС/МСФИ - IAS/IFRS)
 - **VAT Configuration** - Full VAT setup with 18%, 5%, and 0% rates
@@ -61,7 +61,7 @@ This module uses Odoo 18's modern chart template system:
 #### For New Companies (Recommended):
 
 1. Install the module from Apps menu
-2. Create a new company with country set to "North Macedonia"
+2. Create a new company with country set to "Macedonia"
 3. The chart of accounts will be installed automatically
 4. Configure your company details
 
@@ -69,7 +69,7 @@ This module uses Odoo 18's modern chart template system:
 
 1. Install the module from Apps menu
 2. Go to **Settings** → **Companies** → Update Info
-3. Set **Fiscal Country** to "North Macedonia"
+3. Set **Fiscal Country** to "Macedonia"
 4. Go to **Accounting** → **Configuration** → **Accounting**
 5. Click **Install Chart of Accounts**
 6. Select "Macedonian Chart of Accounts"
@@ -212,6 +212,6 @@ For support, please contact:
 
 ## Disclaimer / Напомена
 
-This module is provided as-is for accounting purposes. Please consult with a certified accountant for specific accounting and tax advice in North Macedonia.
+This module is provided as-is for accounting purposes. Please consult with a certified accountant for specific accounting and tax advice in Macedonia.
 
 Овој модул е обезбеден како што е за сметководствени цели. Ве молиме консултирајте се со овластен сметководител за специфични сметководствени и даночни совети во Северна Македонија.
